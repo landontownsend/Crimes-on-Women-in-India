@@ -1,0 +1,1 @@
+Used Excel to explore 737 lines of data regarding various crimes against women across Indian states between 2001 and 2021. Crimes ranging from kidnpaping and rape, to murder and assault. Additionally, created interactive dashboard in order to display data.
